@@ -2,7 +2,7 @@ package com.jimmysun.algorithms.chapter1_1;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
-
+//
 public class Ex35 {
 	public static void main(String[] args) {
 		int SIDES = 6;
